@@ -10,12 +10,12 @@ If there's anything you want to change to make it fit how you want it, just go a
 
 ## Why `my-very-cool-terminal`
 
-- 🎨Cool theme/customised colour scheme
-- 💻System status (battery/time/permissions and more)
-- 🚀git at a glance (unstaged, staged, commit, push, pull and more)
-- ⚡️Powerful auto-suggestions based on history and available commands
-- 🖍Syntax highlighting
-- 🎶See your currently playing song on Spotify
+- 🎨 Cool theme/customised colour scheme
+- 💻 System status (battery/time/permissions and more)
+- 🚀 git at a glance (unstaged, staged, commit, push, pull and more)
+- ⚡️ Powerful auto-suggestions based on history and available commands
+- 🖍 Syntax highlighting
+- 🎶 See your currently playing song on Spotify
 - 🦾 Lots of handy aliases such as:
   - `cd Documents` -> `Documents`
   - `cd ../../..`   -> `....`
