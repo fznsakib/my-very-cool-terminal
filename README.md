@@ -2,6 +2,8 @@
     <img width="300" src="https://user-images.githubusercontent.com/15062683/72544747-cf692d00-387f-11ea-90c9-53a04d306e4c.png"/>
 </p>
 
+---
+
 This repository holds all the configuration and instructions needed to make your terminal **cool** and _functional_ like mine! I have also included any other plugins that I have installed which I find useful.
 
 If there's anything you want to change to make it fit how you want it, just go ahead and change the config files as you please.
@@ -27,6 +29,7 @@ If there's anything you want to change to make it fit how you want it, just go a
 - [zsh](https://www.howtoforge.com/tutorial/how-to-setup-zsh-and-oh-my-zsh-on-linux/)
 - [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
 - [tmux](https://linuxize.com/post/getting-started-with-tmux/)
+- [tpm](https://github.com/tmux-plugins/tpm)
 - [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [Fura Code Nerd Font (based on Firacode)](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraCode/Retina/complete/Fura%20Code%20Retina%20Nerd%20Font%20Complete.otf)
