@@ -5,9 +5,6 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
-# If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
-
 ##############################
 ####### Main Config 
 ##############################
@@ -97,13 +94,6 @@ COMPLETION_WAITING_DOTS="false"
 
 # Trims down prompt to show only on current line
 POWERLEVEL9K_TRANSIENT_PROMPT=always
-
-##############################
-####### Plugin Config
-##############################
-
-ZSH_HIGHLIGHT_STYLES[path]=none
-ZSH_HIGHLIGHT_STYLES[path_prefix]=none
 
 ##############################
 ####### User Config
