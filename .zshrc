@@ -99,6 +99,13 @@ COMPLETION_WAITING_DOTS="false"
 POWERLEVEL9K_TRANSIENT_PROMPT=always
 
 ##############################
+####### Plugin Config
+##############################
+
+ZSH_HIGHLIGHT_STYLES[path]=none
+ZSH_HIGHLIGHT_STYLES[path_prefix]=none
+
+##############################
 ####### User Config
 ##############################
 
