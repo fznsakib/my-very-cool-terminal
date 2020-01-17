@@ -8,7 +8,13 @@ This repository holds all the configuration and instructions needed to make your
 
 If there's anything you want to change to make it fit how you want it, just go ahead and change the config files as you please.
 
-> **Insert GIF here**
+<p align="center">
+    <img width="700" src="https://user-images.githubusercontent.com/15062683/72612440-b23a6a00-3924-11ea-99f5-1faa3820f87e.gif"/>
+</p>
+
+<p align="center">
+Note: All elements within the terminal have been enlarged for demo purposes.
+</p>
 
 ## Why `my-very-cool-terminal`
 
@@ -71,5 +77,4 @@ Notes:
 
 ## To-Do
 
-- [ ] Increase powerline thickness
 - [ ] Add `zsh-fzf`
