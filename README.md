@@ -38,7 +38,7 @@ Note: All elements within the terminal have been enlarged for demo purposes.
 - [tpm](https://github.com/tmux-plugins/tpm)
 - [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-- [Fura Code Nerd Font (based on Firacode)](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraCode/Retina/complete/Fura%20Code%20Retina%20Nerd%20Font%20Complete.otf)
+- [Fira Code Nerd Font)](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
 
 ### Plugins
 
